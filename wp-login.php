@@ -3,7 +3,7 @@
  * WordPress User Page
  *
  * Handles authentication, registering, resetting passwords, forgot password,
- * and other user handling.
+ * and other user handling.Bassem Projetc
  *
  * @package WordPress
  */
@@ -1085,4 +1085,4 @@ if ( $switched_locale ) {
 }
 
 break;
-} // end action switch
+} // end action switch Powred By Bassem
